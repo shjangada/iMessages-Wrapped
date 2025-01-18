@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # iMessage Analytics Wrapped
 
 An advanced analytics tool that provides deep insights into your iMessage communication patterns, combining sentiment analysis, linguistic patterns, and behavioral metrics to create a comprehensive messaging wrap-up.
